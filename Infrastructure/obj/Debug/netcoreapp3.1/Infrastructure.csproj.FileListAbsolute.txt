@@ -1,0 +1,15 @@
+C:\Users\HADITHS\source\repos\Protfolio\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\HADITHS\source\repos\Protfolio\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.json
+C:\Users\HADITHS\source\repos\Protfolio\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.runtimeconfig.dev.json
+C:\Users\HADITHS\source\repos\Protfolio\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\HADITHS\source\repos\Protfolio\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\HADITHS\source\repos\Protfolio\Infrastructure\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\HADITHS\source\repos\Protfolio\Infrastructure\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\HADITHS\source\repos\Protfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\HADITHS\source\repos\Protfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\HADITHS\source\repos\Protfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\HADITHS\source\repos\Protfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\HADITHS\source\repos\Protfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CopyComplete
+C:\Users\HADITHS\source\repos\Protfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\HADITHS\source\repos\Protfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\HADITHS\source\repos\Protfolio\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.genruntimeconfig.cache
